@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kasperliu.github.io/post/running-jupyter-notebook-server/</loc>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://kasperliu.github.io/post/hugo-hosted-on-github/</loc>
     <lastmod>2018-09-15T12:08:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,7 +17,21 @@
   </url>
   
   <url>
+    <loc>https://kasperliu.github.io/tags/anaconda/</loc>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kasperliu.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/tags/frp/</loc>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -30,22 +51,36 @@
   </url>
   
   <url>
+    <loc>https://kasperliu.github.io/tags/jupyter/</loc>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kasperliu.github.io/</loc>
-    <lastmod>2018-09-15T12:08:52+08:00</lastmod>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kasperliu.github.io/post/</loc>
-    <lastmod>2018-09-15T12:08:52+08:00</lastmod>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kasperliu.github.io/tags/</loc>
-    <lastmod>2018-09-15T12:08:52+08:00</lastmod>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/categories/tools/</loc>
+    <lastmod>2018-09-18T12:01:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

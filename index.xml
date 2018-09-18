@@ -6,10 +6,21 @@
     <description>Recent content on Kasper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Sep 2018 16:38:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 16:14:37 +0800</lastBuildDate>
     
 	<atom:link href="https://kasperliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Running Jupyter Notebook Server Remotely</title>
+      <link>https://kasperliu.github.io/post/running-jupyter-notebook-server/</link>
+      <pubDate>Sat, 15 Sep 2018 16:14:37 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/running-jupyter-notebook-server/</guid>
+      <description>Installation For convenience, recommending the Anaconda(https://www.anaconda.com/download/) to install Python and Jupyter. While anaconda has been installed, just run jupyter notebook at terminal to check it working successfully.
+Configuration conda channel configuration The conda configuration file, .condarc, is an optional runtime configuration file that allows advanced users to configure various aspects of conda, such as which channels it searches for packages, proxy settings and environment directories.
+The .condarc file is not included by default, but it is automatically created in your home directory the first time you run the conda config command.</description>
+    </item>
     
     <item>
       <title>Hugo Hosted on Github</title>

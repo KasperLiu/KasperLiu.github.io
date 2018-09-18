@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Kasper</title>
-    <link>https://kasperliu.github.io/post/</link>
-    <description>Recent content in Posts on Kasper</description>
+    <title>Frp on Kasper</title>
+    <link>https://kasperliu.github.io/tags/frp/</link>
+    <description>Recent content in Frp on Kasper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Sep 2018 16:14:37 +0800</lastBuildDate>
     
-	<atom:link href="https://kasperliu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kasperliu.github.io/tags/frp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,18 +20,6 @@
       <description>Installation For convenience, recommending the Anaconda(https://www.anaconda.com/download/) to install Python and Jupyter. While anaconda has been installed, just run jupyter notebook at terminal to check it working successfully.
 Configuration conda channel configuration The conda configuration file, .condarc, is an optional runtime configuration file that allows advanced users to configure various aspects of conda, such as which channels it searches for packages, proxy settings and environment directories.
 The .condarc file is not included by default, but it is automatically created in your home directory the first time you run the conda config command.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Hosted on Github</title>
-      <link>https://kasperliu.github.io/post/hugo-hosted-on-github/</link>
-      <pubDate>Fri, 14 Sep 2018 16:38:52 +0800</pubDate>
-      
-      <guid>https://kasperliu.github.io/post/hugo-hosted-on-github/</guid>
-      <description>Prepare before deploying Hugo as a personal home page hosted on Github, there are some basic steps to complete:
- a Git version greater than v2.8 has been installed.
- a Github Pages, e.g. &amp;lt;Username&amp;gt;.github.io. Hugo installed.  Deploying step by step to deploy:
- create a new repository e.g. blog to maintain Hugo&amp;rsquo;s content (personal blogs) and other source files. git clone &amp;lt;new repository&amp;gt; to your workspace and go into the path e.</description>
     </item>
     
   </channel>
