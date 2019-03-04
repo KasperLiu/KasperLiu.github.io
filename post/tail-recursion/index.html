@@ -252,7 +252,7 @@ factorial(5, 1) // 120
 
 <p>In the above code blocks, the first one is a <strong>non-tail-recursive</strong> function to calculate factorial of <code>n</code>. Although it looks like a tail recursive at first look. If we take a closer look, we can see that the value returned by <code>fact(n-1)</code> is used in <code>fact(n)</code>, so the call to <code>fact(n-1)</code> is not the last thing done by <code>fact(n)</code>. Thus, in the second example, we use one more argument and accumulate the factorial value in second argument.</p>
 
-<p><img src="img/tail-recur.png" alt="tail recursion" /></p>
+<p><img src="/img/tail-recur.png" alt="tail recursion" /></p>
 
 <h2 id="reference">Reference</h2>
 
@@ -287,9 +287,14 @@ factorial(5, 1) // 120
       
       <nav class="post-nav">
         
+          <a class="prev" href="/post/three-tier-architecture-of-p2p-network-in-ethereum/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">Three-Tier Architecture of P2P Network in Ethereum</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
         
-          <a class="next" href="/post/paper_reading_note/">
-            <span class="next-text nav-default">Paper Reading Notes</span>
+          <a class="next" href="/post/attacks-on-pos/">
+            <span class="next-text nav-default">Attacks on PoS</span>
             <span class="next-text nav-mobile">Next</span>
             <i class="iconfont icon-right"></i>
           </a>

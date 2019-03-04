@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Kasper</title>
+    <link>https://kasperliu.github.io/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Kasper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jan 2019 16:14:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://kasperliu.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nothing at Stake Problem of PoS</title>
+      <link>https://kasperliu.github.io/post/nothing-at-stake-problem-of-pos/</link>
+      <pubDate>Fri, 11 Jan 2019 16:14:43 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/nothing-at-stake-problem-of-pos/</guid>
+      <description>Another address for Chinese version:
+https://clouddatalab.github.io/blog/2019/01/11/Nothing-at-stake-problem-of-PoS/
+Introduction Proof of Stake is a novel consensus algorithm that validates blocks mainly according to a validator’s economic stake in the network rather than the hash power. Regarded as the next generation mainstream consensus mechanism of blockchain technology, it has significant advantages including energy saving, reduced risk of centralization and security.
+However, in the early discussion of PoS protocol, it is seem to be more vulnerable due to the fact that it is not aware of anything in reality.</description>
+    </item>
+    
+    <item>
+      <title>Long Range Attack on PoS</title>
+      <link>https://kasperliu.github.io/post/long-range-attack-on-pos/</link>
+      <pubDate>Sun, 30 Dec 2018 16:21:08 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/long-range-attack-on-pos/</guid>
+      <description>Another address for Chinese version:
+https://clouddatalab.github.io/blog/2019/01/10/Long-Range-Attack-On-PoS/
+Introduction Long Range Attack is an attack behavior that attacker make a conflict point on a historic block in order to construct a private chain and overtake the legal main chain.
+This attack is seem to be only appeared in Proof of Stake-based blockchain theoretically due to the weak subjectivity and costless simulation of such consensus algorithm.
+Steps to launching The actual steps to lauch Long Range Attack is as follow:</description>
+    </item>
+    
+    <item>
+      <title>Attacks on PoS</title>
+      <link>https://kasperliu.github.io/post/attacks-on-pos/</link>
+      <pubDate>Sat, 24 Nov 2018 15:36:43 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/attacks-on-pos/</guid>
+      <description>another address with Chinese version:
+https://clouddatalab.github.io/share/2018/12/05/Attacks/
+What is Proof of Stake Proof of Stake (PoS) is a consensus algorithms for public blockchains that depend on a validator&amp;rsquo;s economic stake in the network and it is an alternative consensus mechanism to blockchain systems. Instead of consuming largely computational resource in PoW, PoS just need a little computational power to resolve a simple puzzel. Therefore, the majority of problems with PoS protocols arise from the fact that there is nothing physical &amp;ldquo;anchoring&amp;rdquo; in real-world.</description>
+    </item>
+    
+  </channel>
+</rss>

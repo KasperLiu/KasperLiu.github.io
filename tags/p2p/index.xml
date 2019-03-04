@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P2P on Kasper</title>
+    <link>https://kasperliu.github.io/tags/p2p/</link>
+    <description>Recent content in P2P on Kasper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Dec 2018 15:54:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://kasperliu.github.io/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Three-Tier Architecture of P2P Network in Ethereum</title>
+      <link>https://kasperliu.github.io/post/three-tier-architecture-of-p2p-network-in-ethereum/</link>
+      <pubDate>Sat, 08 Dec 2018 15:54:46 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/three-tier-architecture-of-p2p-network-in-ethereum/</guid>
+      <description>Another address for Chinese version:
+https://clouddatalab.github.io/blog/2019/01/09/Three-tier-architecture-of-P2P-network-in-Ethereum/
+Introduction As a decentralized digital currency system, the network architecture of Ethereum is very important since the synchronization of data and the update of nodes’ status both depend on the connection mechanism between nodes. Peer to Peer(P2P) protocol is used as a communication link for Ethereum and has been developed in various aspects according to the transmission of data(e.g. blocks, transaction and hash value) and message in the network, which can be divided into three layers.</description>
+    </item>
+    
+  </channel>
+</rss>

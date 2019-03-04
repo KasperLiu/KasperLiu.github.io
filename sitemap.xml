@@ -3,8 +3,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kasperliu.github.io/post/nothing-at-stake-problem-of-pos/</loc>
+    <lastmod>2019-01-12T16:14:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/post/long-range-attack-on-pos/</loc>
+    <lastmod>2019-01-23T16:21:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/post/three-tier-architecture-of-p2p-network-in-ethereum/</loc>
+    <lastmod>2019-01-09T15:54:46+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://kasperliu.github.io/post/tail-recursion/</loc>
     <lastmod>2018-12-14T11:16:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/post/attacks-on-pos/</loc>
+    <lastmod>2018-12-05T15:36:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,7 +66,21 @@
   </url>
   
   <url>
+    <loc>https://kasperliu.github.io/tags/blockchain/</loc>
+    <lastmod>2019-01-12T16:14:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kasperliu.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/tags/ethereum/</loc>
+    <lastmod>2019-01-09T15:54:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -73,7 +115,21 @@
   
   <url>
     <loc>https://kasperliu.github.io/</loc>
-    <lastmod>2018-12-14T11:16:03+08:00</lastmod>
+    <lastmod>2019-01-12T16:14:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/categories/notes/</loc>
+    <lastmod>2019-01-12T16:14:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/tags/p2p/</loc>
+    <lastmod>2019-01-09T15:54:46+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -94,7 +150,7 @@
   
   <url>
     <loc>https://kasperliu.github.io/post/</loc>
-    <lastmod>2018-12-14T11:16:03+08:00</lastmod>
+    <lastmod>2019-01-12T16:14:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -102,6 +158,13 @@
   <url>
     <loc>https://kasperliu.github.io/categories/programming/</loc>
     <lastmod>2018-12-14T11:16:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kasperliu.github.io/tags/proof-of-stake/</loc>
+    <lastmod>2019-01-12T16:14:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
