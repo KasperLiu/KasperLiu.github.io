@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Kasper</title>
+    <link>https://kasperliu.github.io/categories/papers/</link>
+    <description>Recent content in Papers on Kasper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Oct 2018 10:44:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://kasperliu.github.io/categories/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paper Reading Notes</title>
+      <link>https://kasperliu.github.io/post/paper_reading_note/</link>
+      <pubDate>Thu, 04 Oct 2018 10:44:27 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/paper_reading_note/</guid>
+      <description> Papers List List the papers have been read to track the study roadmap.
+Blockchain Security and Privacy Hawk：The Blockchain Model of Cryptography and Privacy-Preseving Smart Contracts On the Security and Performance of Proof of Work Blockchains A Better Method to Analyze Blockchain Consistency  Attacks Low-Resource Eclipse Attacks on Ethereum&amp;rsquo;s Peer-to-Peer Network  Improvement Redactable Blockchain or Rewriting History in Bitcoin and Friends  </description>
+    </item>
+    
+  </channel>
+</rss>

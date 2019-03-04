@@ -18,8 +18,8 @@
       
       <guid>https://kasperliu.github.io/post/hugo-hosted-on-github/</guid>
       <description>Prepare before deploying Hugo as a personal home page hosted on Github, there are some basic steps to complete:
- a Git version greater than v2.8 has been installed.
- a Github Pages, e.g. &amp;lt;Username&amp;gt;.github.io. Hugo installed.  Deploying step by step to deploy:
+ a Git version greater than v2.8.
+ a Github Pages, e.g. &amp;lt;Username&amp;gt;.github.io. install Hugo .  Deploying step by step to deploy:
  create a new repository e.g. blog to maintain Hugo&amp;rsquo;s content (personal blogs) and other source files. git clone &amp;lt;new repository&amp;gt; to your workspace and go into the path e.</description>
     </item>
     

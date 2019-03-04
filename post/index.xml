@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Kasper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Sep 2018 16:14:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 10:44:27 +0800</lastBuildDate>
     
 	<atom:link href="https://kasperliu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper Reading Notes</title>
+      <link>https://kasperliu.github.io/post/paper_reading_note/</link>
+      <pubDate>Thu, 04 Oct 2018 10:44:27 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/paper_reading_note/</guid>
+      <description> Papers List List the papers have been read to track the study roadmap.
+Blockchain Security and Privacy Hawk：The Blockchain Model of Cryptography and Privacy-Preseving Smart Contracts On the Security and Performance of Proof of Work Blockchains A Better Method to Analyze Blockchain Consistency  Attacks Low-Resource Eclipse Attacks on Ethereum&amp;rsquo;s Peer-to-Peer Network  Improvement Redactable Blockchain or Rewriting History in Bitcoin and Friends  </description>
+    </item>
     
     <item>
       <title>Running Jupyter Notebook Server Remotely</title>
@@ -29,8 +39,8 @@ The .condarc file is not included by default, but it is automatically created in
       
       <guid>https://kasperliu.github.io/post/hugo-hosted-on-github/</guid>
       <description>Prepare before deploying Hugo as a personal home page hosted on Github, there are some basic steps to complete:
- a Git version greater than v2.8 has been installed.
- a Github Pages, e.g. &amp;lt;Username&amp;gt;.github.io. Hugo installed.  Deploying step by step to deploy:
+ a Git version greater than v2.8.
+ a Github Pages, e.g. &amp;lt;Username&amp;gt;.github.io. install Hugo .  Deploying step by step to deploy:
  create a new repository e.g. blog to maintain Hugo&amp;rsquo;s content (personal blogs) and other source files. git clone &amp;lt;new repository&amp;gt; to your workspace and go into the path e.</description>
     </item>
     
