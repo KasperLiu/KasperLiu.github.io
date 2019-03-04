@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance Optimization on Kasper</title>
+    <link>https://kasperliu.github.io/tags/performance-optimization/</link>
+    <description>Recent content in Performance Optimization on Kasper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Dec 2018 11:16:03 +0800</lastBuildDate>
+    
+	<atom:link href="https://kasperliu.github.io/tags/performance-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tail Recursion</title>
+      <link>https://kasperliu.github.io/post/tail-recursion/</link>
+      <pubDate>Tue, 04 Dec 2018 11:16:03 +0800</pubDate>
+      
+      <guid>https://kasperliu.github.io/post/tail-recursion/</guid>
+      <description>What is tail recursion A recursion function is that a function calls itself directly or indirectly. We ususally use recursion to address some problems like:
+ the solution can be implemented by recursion(e.g. backtracking). the definition of data is fit to compute with recursion(e.g. Fibonacci). the data structure can be organized or accessed by recursion(e.g. the traversal of binary tree).  Tail recursion is a concrete implement of recursion that just call the function itself in the end of codes.</description>
+    </item>
+    
+  </channel>
+</rss>
