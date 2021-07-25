@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kasper Liu</title>
+        <link>https://kasperliu.github.io/</link>
+        <description>Recent content on Kasper Liu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 25 Jul 2021 23:03:03 +0800</lastBuildDate><atom:link href="https://kasperliu.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Two</title>
+        <link>https://kasperliu.github.io/p/two/</link>
+        <pubDate>Sun, 25 Jul 2021 23:03:03 +0800</pubDate>
+        
+        <guid>https://kasperliu.github.io/p/two/</guid>
+        <description>&lt;img src="https://kasperliu.github.io/p/two/cover.jpg" alt="Featured image of post Two" /&gt;&lt;p&gt;第二篇测试。在post/文件夹下再新建文件夹。但如果放置frontmatter字段中的image，则需要将md文件命名为index.md。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://kasperliu.github.io/p/test-post/</link>
+        <pubDate>Sun, 25 Jul 2021 22:57:46 +0800</pubDate>
+        
+        <guid>https://kasperliu.github.io/p/test-post/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
